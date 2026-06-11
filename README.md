@@ -133,7 +133,7 @@ Validation** to improve model performance and ensure reliable evaluation.
 
 ## Author
 
-**Vinayaka**
+**Pragya R K**
 B.E. — Artificial Intelligence and Machine Learning
 Bapuji Institute of Engineering and Technology (BIET), Davanagere
 
