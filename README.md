@@ -137,4 +137,3 @@ Validation** to improve model performance and ensure reliable evaluation.
 B.E. — Artificial Intelligence and Machine Learning
 Bapuji Institute of Engineering and Technology (BIET), Davanagere
 
-> Submitted as part of Data Science Internship Assignment
