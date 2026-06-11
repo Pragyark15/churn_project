@@ -1,5 +1,4 @@
 # Customer Churn Prediction
-### Data Science Internship Assignment
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat&logo=python)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0+-orange?style=flat&logo=scikit-learn)
