@@ -1,23 +1,19 @@
----
+# 🔄 Customer Churn Prediction
+### Data Science Internship Assignment
 
-## 📋 Deliverables
-
-- [x] Jupyter Notebook with complete code and outputs
-- [x] EDA visualizations (class distribution, heatmap, boxplots)
-- [x] Baseline model with K-Fold cross validation
-- [x] SMOTE-augmented model with leakage-safe implementation
-- [x] Before vs After comparison (table + bar chart + ROC curve)
-- [x] Confusion matrices for both models
-- [x] Final report summary with insights and conclusions
+![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat&logo=python)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0+-orange?style=flat&logo=scikit-learn)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat&logo=jupyter)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat)
 
 ---
 
-## 👤 Author
+## 📌 Objective
 
-**Vinayaka**
-B.E. — Artificial Intelligence & Machine Learning
-Bapuji Institute of Engineering and Technology (BIET), Davanagere
+Build a machine learning model to predict customer churn using a small,
+imbalanced dataset. Apply **SMOTE data augmentation** and **K-Fold Cross
+Validation** to improve model performance and ensure reliable evaluation.
 
 ---
 
-> 🏷️ *Submitted as part of Data Science Internship Assignment*
+## 📁 Repository Structure
